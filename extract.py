@@ -8,7 +8,9 @@ import sys
 import os
 
 # Program variables
+
 # Full path to .ovpn file
+# TODO: Insert your file's path and name here, if no file chooser.
 ovpnFileName = ''
 directory = os.path.dirname(ovpnFileName)
 
